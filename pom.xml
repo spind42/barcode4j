@@ -217,13 +217,13 @@
             <dependency>
                 <groupId>com.google.zxing</groupId>
                 <artifactId>core</artifactId>
-                <version>[2.2,)</version>
+                <version>3.3.3</version>
             </dependency>
 
             <dependency>
                 <groupId>com.google.zxing</groupId>
                 <artifactId>javase</artifactId>
-                <version>[2.2,)</version>
+                <version>3.3.3</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
